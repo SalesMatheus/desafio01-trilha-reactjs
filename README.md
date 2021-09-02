@@ -1,5 +1,6 @@
-# 💻 Desafio 01- Trilha ReactJS - Rocketseat
-    Para que o desafio seja concluído será necessário que a aplicação passe pelos seguintes testes
+## 💻 Desafio 01- Trilha ReactJS - Rocketseat
+
+Para que o desafio seja concluído será necessário que a aplicação passe pelos seguintes testes:
 
 ## :hammer_and_wrench: Challengers 
 
